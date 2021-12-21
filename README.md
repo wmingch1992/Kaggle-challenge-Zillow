@@ -1,5 +1,4 @@
-# Kaggle-challenge-Zillow
-Zillow's Home Value Prediction Kaggle Competition
+# Zillow's Home Value Prediction Kaggle Competition
 ![Screen Shot 2021-12-11 at 15 38 50](https://user-images.githubusercontent.com/41892953/145694998-36381f4f-8585-4ffa-843a-b9cb1d5005a2.png)
 
 ## Problem Statement
