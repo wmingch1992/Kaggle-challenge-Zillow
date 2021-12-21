@@ -13,9 +13,9 @@ In [Kaggle Zillow challenge](https://www.kaggle.com/c/zillow-prize-1/overview/de
 - Numpy
 
 ## Files
-- `Zillow_data_exploration_feature_extraction.ipynb` performs basic data exploration and some feature engineering. The features are then saved to hdf5 files for later use. 
-- `Zillow_model_LightGBM.ipynb` builds [LightGBM](https://github.com/Microsoft/LightGBM) on top of the features extracted. 
-- `Zillow_model_CatBoost.ipynb` builds [CatBoost](https://github.com/catboost/catboost) models.
+- [`Zillow_data_exploration_feature_extraction.ipynb`](https://github.com/wmingch1992/Kaggle-challenge-Zillow/blob/main/Zillow_data_exploration_feature_extraction.ipynb) performs basic data exploration and some feature engineering. The features are then saved to hdf5 files for later use. 
+- [`Zillow_model_LightGBM.ipynb`](https://github.com/wmingch1992/Kaggle-challenge-Zillow/blob/main/Zillow_model_LightGBM.ipynb) builds [LightGBM](https://github.com/Microsoft/LightGBM) on top of the features extracted. 
+- [`Zillow_model_CatBoost.ipynb`](https://github.com/wmingch1992/Kaggle-challenge-Zillow/blob/main/Zillow_model_CatBoost.ipynb) builds [CatBoost](https://github.com/catboost/catboost) models.
 
 ## Results 
 | Model | Private Leaderboard Score | Private Leaderboard Ranking | 
